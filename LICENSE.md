@@ -1,4 +1,4 @@
-# 
+# exclusive bot for Polymarket - event-driven-trading and sentiment-analysis offers the most advanced Polymarket bot, with event-driven-trading and sentiment-analysis. Ideal for
 
 
 
